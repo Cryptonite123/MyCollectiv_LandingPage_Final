@@ -13,7 +13,7 @@ a {
 
 #main__section {
     font-family: 'Inter', sans-serif;
-    background: #44A7FD;
+    background: #3C6CA8;
     width: 100%;
 
 }
@@ -67,7 +67,7 @@ a {
     font-size: 28px;
     line-height: 38px;
     text-align: center;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .for__arr {
@@ -95,7 +95,7 @@ a {
 /* ========================2rd section start==================== */
 #second__section {
     font-family: 'Inter', sans-serif;
-    background: #FF7575;
+    background: #3C6CA8;
     width: 100%;
     padding: 20px 0;
     /* height: 100vh; */
@@ -127,7 +127,7 @@ a {
     border: 4px solid #000;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 156px;
-    background: #6DE7D0;
+    background: #FFDC4C;
 }
 
 .loop-inner-circle {
@@ -148,7 +148,7 @@ a {
     align-items: center;
     border: 2px solid #000;
     border-radius: 156px;
-    background: #6DE7D0;
+    background: #FFDC4C;
 }
 
 .idea-loop-character {
@@ -238,7 +238,7 @@ a {
     top: 0%;
     right: -25%;
     bottom: 0%;
-    background-color: #6DE7D0;
+    background-color: #FFDC4C;
 }
 
 .idea-loop-line-cover {
@@ -247,7 +247,7 @@ a {
     width: 12rem;
     height: 2rem;
     margin-left: -6rem;
-    background-color: #6DE7D0;
+    background-color: #FFDC4C;
 }
 
 .idea-loop-text-wrap._02 {
@@ -305,7 +305,7 @@ a {
     font-size: 30px;
     line-height: 38px;
     text-align: center;
-    color: #000000;
+    color: #FFFFFF;
     margin: 30px 0;
 }
 
@@ -348,7 +348,7 @@ a {
 /* ========================3rd section start==================== */
 #third__section {
     font-family: 'Inter', sans-serif;
-    background: #6DE7D0;
+    background: #3C6CA8;
     width: 100%;
 
 }
@@ -392,7 +392,7 @@ a {
     font-size: 50px;
     line-height: 70px;
     text-align: center;
-    color: #FF7575;
+    color: #FFDC4C;
 }
 
 .mission__main__div .mission__second h1 {
@@ -401,7 +401,7 @@ a {
     font-size: 70px;
     line-height: 60px;
     text-align: center;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .mission__main__div .mission__second p {
@@ -410,7 +410,7 @@ a {
     font-size: 24px;
     line-height: 38px;
     text-align: center;
-    color: #000000;
+    color: #FFFFFF;
     margin-top: 20px;
 }
 
@@ -432,7 +432,7 @@ a {
 /* ========================contact us section start=================== */
 #fourth__section {
     font-family: 'Inter', sans-serif;
-    background: #FF7575;
+    background: #FFDC4C;
     width: 100%;
 }
 
@@ -483,7 +483,7 @@ a {
     font-size: 25px;
     line-height: 38px;
     text-align: center;
-    color: #FFFFFF;
+    color: #000000;
     margin-top: 20px;
 }
 
@@ -571,7 +571,7 @@ a {
 }
 
 .input-group:hover {
-    box-shadow: 0 2px 3px 2px #6DE7D0;
+    box-shadow: 0 2px 3px 2px #3C6CA8;
 }
 
 .input-group-text {
@@ -642,7 +642,7 @@ a {
     #fourth__section {
         display: block;
         font-family: 'Inter', sans-serif;
-        background: #FF7575;
+        background: #FFDC4C;
         width: 100%;
     }
 
@@ -811,7 +811,7 @@ a {
         top: 0%;
         right: 0%;
         bottom: 0%;
-        background-color: #6DE7D0;
+        background-color: #FFDC4C;
     }
 
     .idea-loop-character-image {
@@ -906,7 +906,7 @@ a {
     #fourth__section {
         display: block;
         font-family: 'Inter', sans-serif;
-        background: #FF7575;
+        background: #FFDC4C;
         width: 100%;
         /* height: 50vh; */
     }
@@ -1080,7 +1080,7 @@ a {
     #fourth__section {
         display: block;
         font-family: 'Inter', sans-serif;
-        background: #FF7575;
+        background: #FFDC4C;
         width: 100%;
         /* height: 40vh; */
     }
@@ -1118,7 +1118,7 @@ a {
     }
 
     .for__arr a .for__scroll_text {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .mission__main__div .mission__second {

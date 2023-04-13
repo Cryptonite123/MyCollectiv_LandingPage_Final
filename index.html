@@ -47,11 +47,11 @@
         <div class="mid__main__div container">
             <div class="second__content">
                 <h3 class="">Tired of the same old ways to connect with your community?</h3>
-                <h2>We have something new.</h2>
+                <h2>We have something <span style="color:#FFDC4C">new.</span></h2>
             </div>
             <div class="sec__mid">
                 <div class="second__section__img">
-                    <img src="asset/images/Group 1.png" alt="">
+                    <img src="asset/images/Group 1.svg" alt="">
                 </div>
                 <div class="for__arr  mt-4">
 
@@ -183,11 +183,11 @@
        $(document).on("submit","#formjs", function(e) {
         
         (function() {
-    emailjs.init("g5x_MqfJC_1PH0k2F"); //Tot960x7-ZxLcUMwI
+    emailjs.init("SMkHRh0xLQoo4z9bX"); //Tot960x7-ZxLcUMwI
   })();
             e.preventDefault();
             // In the code above, service_q63ojvk is the ID of the MailJS service you created, template_al71p4b is the ID of the email template you created, and variables is an object containing any variables you want to include in the email template.
-            emailjs.send('service_3jx2nov', 'template_x1vhoqc', {
+            emailjs.send('service_y7d0asa', 'template_rhev1kd', {
   to: 'document.getElementById("email").value',
   cc: 'document.getElementById("email").value',
   bcc: 'document.getElementById("email").value',
@@ -196,7 +196,7 @@
     message: "User subscribe throught this email " + "Email :" + document.getElementById("email").value
 }).then(function(response) {
     console.log(response);
-     alert("Details Recieved");
+     alert("Welcome aboard! 🚀 Stellar updates incoming!");
 }).catch(function(error) {
   console.error(error);
 });
